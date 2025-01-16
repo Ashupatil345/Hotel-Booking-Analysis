@@ -80,17 +80,29 @@ reservation_status_date: Date at which the last reservation status was updated
 # Overall conclusion:
 
 1.We found that 61.07% preferred city hotel and 38.93% preferred to book a resort hotel
+
 2.The city hotel has made more number of bookings in years 2016 and 2017.The resort did have more bookings in 2016 but there was a noticeable decline in 2017.
+
 3.The city hotels have more ADR that means City hotels Generate more Revenue than Resort Hotels
+
 4.91.6 % guests did not required the parking space. only 8.3 % guests required only 1 parking space.
+
 5.City hotel bookings had a higher waiting time.
+
 6.Here, we found that overall more than 27% of booking got cancelled
+
 7.The month of July and August had the most Bookings. Summer vaccation can be the reason for the bookings.
+
 8.Agent no. 9 and 240 made highest bookings, where as least number of bookings are made by agent no 1 and 6
+
 9.The maximum bookings have been done from Portugal,United Kingdom France and Spain.
+
 10.The maximum bookings is done through Online TA and Offline TA/TO.
+
 11.Room type A and D have been booked maximum in the last 3years.
+
 12.We have a very small percentage of clients repeating the hotel and though we have a large clientile
+
 13.From above insight we have found that the avrage stay length is 7 days for both types
 14.Bed and Breakfast(BB)is the most preferred type of booking for Guest.
 15.arrival_date_year and arrival_date_week_number columns has negative correlation which is -0.51 stays_in_week_nights and total_stay has positive correlation which is 0.95
