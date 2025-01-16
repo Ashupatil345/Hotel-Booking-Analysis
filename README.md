@@ -104,6 +104,9 @@ reservation_status_date: Date at which the last reservation status was updated
 12.We have a very small percentage of clients repeating the hotel and though we have a large clientile
 
 13.From above insight we have found that the avrage stay length is 7 days for both types
+
 14.Bed and Breakfast(BB)is the most preferred type of booking for Guest.
+
 15.arrival_date_year and arrival_date_week_number columns has negative correlation which is -0.51 stays_in_week_nights and total_stay has positive correlation which is 0.95
+
 16.As the total number of people increases adr also increases.Thus adr and total people are directly proportional to each other.
